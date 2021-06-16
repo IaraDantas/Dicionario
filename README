@@ -1,0 +1,25 @@
+##############################################################################################
+Nome do programa: Dict_Server.                                                               #
+Criadoras: Emanuele Mayara                                                                   #
+           Fabiana Carla                                                                     #
+           Iara de Melo                                                                      #
+                                                                                             #
+Função : Dicionario web que coleta, remove, insere e apresenta informações de um banco de    #
+         dados.                                                                              #
+                                                                                             #
+                                                                                             #
+Data de Criação :16/02/2017                                                                  #
+Ultima alteração:24/02/2017                                                                  #
+                                                                                             #
+Versão 0.1 - Organização estrutural das rotas principais (IARA)                              #
+Versão 0.2 - escrita das estrututas (rotas) e conexão com o banco de dados (IARA)            #
+Versão 0.3 - mudança na estrutura com a adição de novas opções e construção da               #
+             opção adicionar, remover, consultar. (FABIANA)                                  #
+Versão 0.4 - criação da parte básica da opção das 10 mais acessadas (FABIANA)                #
+                                                                                             #
+Versão 0.5 - Criação de teste para existência da palavra, antes da implemantação             #
+             das funções em cada opção, alteração na atualização do contador                 #
+             de acesso das palavras(IARA)                                                    #
+Versão 0.6 - Adição de opções de adicionar traduções (port / ing) e implementação            #
+            da opção de listar as 10 palavras mais acessadas. (IARA)                         #
+##############################################################################################
